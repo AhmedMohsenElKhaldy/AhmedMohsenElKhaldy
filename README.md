@@ -22,7 +22,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/Ahmed01Elkhaldy/Project1-Stone-Paper-Scissor.git))
-- [Project 1 (Math Game)]((https://github.com/Ahmed01Elkhaldy/Project-2-Math-Game-.git)))
+- [Project 2 (Math Game)]((https://github.com/Ahmed01Elkhaldy/Project-2-Math-Game-.git)))
 
 ---
 
