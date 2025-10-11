@@ -81,7 +81,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="(https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5)">
+  <a href="(https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1OmNplujRF2mqyBNfagGIw%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="ahmedmohsensaid1@gmil.com">
@@ -98,7 +98,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 // Focused on mastering the stack
 class AhmedYaserMt {
 public:
-  string university = "Benha University";
+  string university = "Bani-Suef University";
   string track = "Full Stack Developer";
   string passion = "Problem Solving & Building Projects";
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
