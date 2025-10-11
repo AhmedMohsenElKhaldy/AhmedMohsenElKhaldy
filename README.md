@@ -54,7 +54,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="Ahmed Mohsen's GitHub stats" /> 
       </td> 
       <td> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
@@ -68,20 +68,20 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedYaser-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsen-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/followers/AhmedMohsen-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="[https://www.linkedin.com/in/ahmed-yaser-mt](https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5)">
+  <a href="(https://www.linkedin.com/in/ahmed-mohsen-elkhaldy-9226b32b5)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="ahmedmohsensaid1@gmil.com">
