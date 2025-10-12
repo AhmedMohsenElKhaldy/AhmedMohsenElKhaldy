@@ -68,12 +68,6 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedMohsen-Mt&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedMohsen?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
 ---
 
 <p align="center">
