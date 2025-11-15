@@ -51,13 +51,13 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 ---
 <div align="center"> 
   
-  ## 🏆 إنجازات GitHub (Trophies)
+  ## 🏆 🏆 GitHub Trophies
   
   <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   
   ---
   
-  ## 👥 المتابعون (Followers)
+  ## 👥Followers
   
   <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   
