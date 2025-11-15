@@ -54,7 +54,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsenElkhaldy&show_icons=true&theme=dark&hide_border=false&count_private=true&v=1" alt="AhmedMohsenElKhaldy's GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsenElKhaldy&show_icons=true&theme=dark&hide_border=false&count_private=true&v=1" alt="AhmedMohsenElKhaldy's GitHub stats" /> 
       </td> 
       <td> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohsenElKhaldy&theme=dark&hide_border=false&v=1" alt="GitHub Streak" /> 
