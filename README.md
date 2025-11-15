@@ -75,7 +75,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 <p align="center">
   <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
----
+
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
