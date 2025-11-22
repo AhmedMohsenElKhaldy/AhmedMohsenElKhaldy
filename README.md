@@ -19,7 +19,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
----
+
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/Ahmed01Elkhaldy/Project1-Stone-Paper-Scissor.git)
