@@ -51,22 +51,22 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
 ---
 <div align="center"> 
   
-  ## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedMohsenElKhaldy&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   
-  ---
+---
   
-  ## 👥 Followers Status
+### 👥 Followers Status
   
-  <img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/AhmedMohsenElKhaldy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   
-  ---
+---
   
-  ## 📊 Main GitHub Statistics
+### 📊 Main GitHub Statistics
   
-  <table> 
-    <tr> 
+<table> 
+   <tr> 
       <td> 
         <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohsenElKhaldy&show_icons=true&theme=dark&hide_border=false&count_private=true&v=1" alt="AhmedMohsenElKhaldy's GitHub Stats" /> 
       </td> 
@@ -78,7 +78,7 @@ I am actively following the *Abu-Hadhoud Roadmap (Programming Advices)* and have
   
   ---
   
-  ## 💻 Top Languages
+ ### 💻 Top Languages
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohsenElKhaldy&layout=compact&theme=dark&hide_border=false&v=1" alt="Top Languages" /> 
   
